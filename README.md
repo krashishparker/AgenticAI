@@ -1,3 +1,4 @@
+<img width="1440" height="900" alt="Screenshot 2026-01-27 at 12 05 58 PM" src="https://github.com/user-attachments/assets/ffd94ab1-bc4b-4577-b7ee-bdefa90586c1" />
 Commnd : python -m pip install -r requirements.txt
 
 To make this work every time you open a terminal (permanent), follow these steps:
